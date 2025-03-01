@@ -37,16 +37,16 @@
 ## 参考研报
 
 - **2020 年 02 月 23 日 · 东吴证券研究所**  
-  [《“技术分析拥抱选股因子”系列研究（一）：高频价量相关性，意想不到的选股因子》](#)  
+  [《“技术分析拥抱选股因子”系列研究（一）：高频价量相关性，意想不到的选股因子》](https://github.com/jinwukong/-vnpy-CTA-/blob/main/20200223-%E4%B8%9C%E5%90%B4%E8%AF%81%E5%88%B8-%E2%80%9C%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90%E6%8B%A5%E6%8A%B1%E9%80%89%E8%82%A1%E5%9B%A0%E5%AD%90%E2%80%9D%E7%B3%BB%E5%88%97%E7%A0%94%E7%A9%B6%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E9%AB%98%E9%A2%91%E4%BB%B7%E9%87%8F%E7%9B%B8%E5%85%B3%E6%80%A7%EF%BC%8C%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E9%80%89%E8%82%A1%E5%9B%A0%E5%AD%90.pdf)  
 
 - **2020 年 06 月 18 日 · 东吴证券研究所**  
-  [《“高频价量相关性拥抱 CTA”系列研究（一）：CPV 因子期货版》](#)
+  [《“高频价量相关性拥抱 CTA”系列研究（一）：CPV 因子期货版》](https://github.com/jinwukong/-vnpy-CTA-/blob/main/20200618-%E4%B8%9C%E5%90%B4%E8%AF%81%E5%88%B8-%E2%80%9C%E9%AB%98%E9%A2%91%E4%BB%B7%E9%87%8F%E7%9B%B8%E5%85%B3%E6%80%A7%E6%8B%A5%E6%8A%B1CTA%E2%80%9D%E7%B3%BB%E5%88%97%E7%A0%94%E7%A9%B6%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9ACPV%E5%9B%A0%E5%AD%90%E6%9C%9F%E8%B4%A7%E7%89%88.pdf)
 
 - **2023 年 02 月 13 日 · 东吴证券研究所**  
-  [《“高频价量相关性拥抱 CTA”系列研究（二）：CPV 因子期货版 2.0 —— 样本内外的动量反转》](#)
+  [《“高频价量相关性拥抱 CTA”系列研究（二）：CPV 因子期货版 2.0 —— 样本内外的动量反转》](https://github.com/jinwukong/-vnpy-CTA-/blob/main/20230213-%E4%B8%9C%E5%90%B4%E8%AF%81%E5%88%B8-%E2%80%9C%E9%AB%98%E9%A2%91%E4%BB%B7%E9%87%8F%E7%9B%B8%E5%85%B3%E6%80%A7%E6%8B%A5%E6%8A%B1CTA%E2%80%9D%E7%B3%BB%E5%88%97%E7%A0%94%E7%A9%B6%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9ACPV%E5%9B%A0%E5%AD%90%E6%9C%9F%E8%B4%A7%E7%89%882.0~%E6%A0%B7%E6%9C%AC%E5%86%85%E5%A4%96%E7%9A%84%E5%8A%A8%E9%87%8F%E5%8F%8D%E8%BD%AC.pdf)
 
 - **2024 年 09 月 02 日 · 东吴证券研究所**  
-  [《“高频价量相关性拥抱 CTA”系列研究（四）：CPV 因子期货版 3.0，CPV 测谎机》](#)
+  [《“高频价量相关性拥抱 CTA”系列研究（四）：CPV 因子期货版 3.0，CPV 测谎机》](https://github.com/jinwukong/-vnpy-CTA-/blob/main/20240902-%E4%B8%9C%E5%90%B4%E8%AF%81%E5%88%B8-%E2%80%9C%E9%AB%98%E9%A2%91%E4%BB%B7%E9%87%8F%E7%9B%B8%E5%85%B3%E6%80%A7%E6%8B%A5%E6%8A%B1CTA%E2%80%9D%E7%B3%BB%E5%88%97%E7%A0%94%E7%A9%B6%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9ACPV%E5%9B%A0%E5%AD%90%E6%9C%9F%E8%B4%A7%E7%89%883.0%EF%BC%8CCPV%E6%B5%8B%E8%B0%8E%E6%9C%BA.pdf)
 
 ## 免责声明
 
